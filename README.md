@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 🖥️ Bachelor's degree in Computer Application, Software and Engineering.
 
-🔭 Consulting for SMEs in development finance data projects. Currently on a data visualization project.
+🔭 Consulting for MFIs in development finance projects. 
 
 🍀 Born and raised in Ireland. Lived in Melbourne, Berlin, Barcelona and just moved to London, UK.
 
-🌱 Currently expanding my knowledge in data engineering.
+🌱 Currently expanding my knowledge in Data Engineering, SRE, Devops & Production Support. 
 
 ⚡ Fun fact - I designed and built my beloved campervan! 🚌
 
-🤝 Let's Connect! I'm best reached via email or linkedIn. Please do not hesitate to reach out to me!
+🤝 Let's Connect! I'm best reached via email. Please do not hesitate to reach out to me!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelle-smyth-371807109/)
